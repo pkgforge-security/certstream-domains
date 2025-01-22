@@ -6,9 +6,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 90 days, 19 hours and 14 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.66 2.03 1.44
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 81
+   .mX2'       _xaaa__     XZ[.   Uptime: 90 days, 20 hours and 42 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.63 1.91 1.45
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 85
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -26,14 +26,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 40.8G │ 25.3G │ 13.4G │  62.0% │ ext4 │ /dev/vda1  │
+│ /          │ 40.8G │ 25.3G │ 13.4G │  62.1% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         19.1T   6.30G      0   4.58M       0       0 
+         19.1T   6.31G      0   4.58M       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-          330G   2.70G      0       0       0       0 
+          330G   2.71G      0       0       0       0 
     altname enp0s3
     altname ens3
 
