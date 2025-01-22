@@ -6,8 +6,8 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 90 days, 23 hours and 37 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.58 2.18 1.62
+   .mX2'       _xaaa__     XZ[.   Uptime: 91 days, 1 hour and 4 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.42 1.95 1.43
   _#e'     .]X2(     ~Xw|  )XXc   Processes: 81
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
@@ -17,8 +17,8 @@
     XUb;.                         Temperature: Not detected
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
        +3#bc,                     GPU: Not detected
-         -)SSL,,                  RAM: 1054 MiB / 3411 MiB
-            ~~~~~                 Disk: 25.4 GiB / 40.8 GiB
+         -)SSL,,                  RAM: 1051 MiB / 3411 MiB
+            ~~~~~                 Disk: 25.5 GiB / 40.8 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -31,7 +31,7 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         19.1T   6.32G      0   4.58M       0       0 
+         19.2T   6.32G      0   4.59M       0       0 
     TX:  bytes packets errors dropped carrier collsns           
           331G   2.71G      0       0       0       0 
     altname enp0s3
