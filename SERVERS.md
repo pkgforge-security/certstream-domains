@@ -45,8 +45,8 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 93 days, 4 hours and 3 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.48 1.75 1.32
+   .mX2'       _xaaa__     XZ[.   Uptime: 93 days, 5 hours and 30 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.43 1.82 1.29
   _#e'     .]X2(     ~Xw|  )XXc   Processes: 81
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
@@ -65,7 +65,7 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 40.8G │ 25.5G │ 13.2G │  62.6% │ ext4 │ /dev/vda1  │
+│ /          │ 40.8G │ 25.6G │ 13.1G │  62.7% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
