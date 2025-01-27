@@ -1,7 +1,7 @@
 
 
 ---
-- #### [🖨️ **Stats** `24Hr`⏲️ ➼ 2025_01_26](https://pub.ajam.dev/datasets/certstream/all_latest.txt)
+- #### [🖨️ **Stats** `24Hr`⏲️ ➼ 2025_01_27](https://pub.ajam.dev/datasets/certstream/all_latest.txt)
 ```console
 
 
@@ -12,7 +12,7 @@
 ```
 
 ---
-- #### [🖨️ **Stats** `7Days`⏲️ ➼ 2025_01_26 <--> 2025_01_19](https://pub.ajam.dev/datasets/certstream/all_weekly.txt)
+- #### [🖨️ **Stats** `7Days`⏲️ ➼ 2025_01_27 <--> 2025_01_20](https://pub.ajam.dev/datasets/certstream/all_weekly.txt)
 ```console
 
 
